@@ -233,7 +233,7 @@
     "templateId": "2307",
     "templateCredsSetupCompleted": true
   },
-  "name": "Backup your credentials to GitHub (Solomon)",
+  "name": "Backup your workflows to GitHub (Solomon)",
   "nodes": [
     {
       "parameters": {},
@@ -715,6 +715,6 @@
   },
   "tags": [],
   "triggerCount": 1,
-  "updatedAt": "2025-03-11T17:33:59.000Z",
-  "versionId": "303922b7-9042-44f4-b18e-8775c642054c"
+  "updatedAt": "2025-03-11T17:37:08.000Z",
+  "versionId": "592c9fcb-5494-439c-9c61-98a4b3aab0d9"
 }
